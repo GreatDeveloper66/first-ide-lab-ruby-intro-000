@@ -1,1 +1,1 @@
-'I am a programming magician
+puts 'I am a programming magician'
